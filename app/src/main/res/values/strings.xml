@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_name">Show Alert Dailog</string>
+    <string name="title">Alert Dailog</string>
+    <string name="message">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="tip_percentage">Tip Percentage</string>
+    <string name="calculate_text">Calculate Tip</string>
+    <string name="enter_bill">Enter Your Bill</string>
+
+
+</resources>
